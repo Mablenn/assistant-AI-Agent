@@ -7,10 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>assistantApp</name>
   <url>http://maven.apache.org</url>
-  
-  <!-- Cuidado con esto. Si asignamos este compilador
-    el proyecto no compilará porque el compiler por defecto is no longer
-  -->
+    
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
